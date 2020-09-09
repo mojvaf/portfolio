@@ -7,7 +7,6 @@ body{
     color:${setColor.mainBlack};
     font-size: 100%;
     ${setFont.main};
-    font-size: 15px
  }
 
  body, ul{
@@ -74,7 +73,6 @@ h1{
     margin-bottom:130px
 }
  section {
-    margin: 40px 0;
     padding: 40px
  }
 
@@ -83,13 +81,15 @@ h1{
     
  }
  footer {
+    color:${setColor.mainWhite};
      text-align: center;
-     margin: 60px;
+     background-color: #1CC6FF;
+     height: 75px;
+     padding:15px
  }
 
  footer h2 {
-     font-size: 20px;
-     margin-top:50px
+     font-size: 15px;
  }
 }
 `
