@@ -6,10 +6,10 @@ import Button from '@material-ui/core/Button';
             <section>
              <ul className="skills-list" >
                  <li>Some skills</li>
-                 <li>01-JavaScript </li>
-                 <li>02-Node.js</li>
-                 <li>03-React</li>
-                 <li>04-Java</li>
+                 <li>JavaScript </li>
+                 <li>Node.js</li>
+                 <li>React</li>
+                 <li>Java</li>
              </ul>
             </section>
 
