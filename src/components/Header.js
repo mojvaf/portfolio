@@ -33,7 +33,7 @@ import Contact from './Contact';
                <div className="col-sm">
                <figure>
                 <img  src="https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="intro-img" alt="my picture"/>
-                <figcaption>photo by Sam</figcaption>
+                <figcaption>photo by oziel Gomez from Pexels</figcaption>
                 </figure>
                 </div>
                </div>

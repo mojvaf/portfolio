@@ -5,10 +5,11 @@ import Button from '@material-ui/core/Button';
         <div>
             <section>
              <ul className="skills-list" >
-                 <li>01-graphic design</li>
-                 <li>02-user experience</li>
-                 <li>03-design thinking</li>
-                 <li>04-user research</li>
+                 <li>Some skills</li>
+                 <li>01-JavaScript </li>
+                 <li>02-Node.js</li>
+                 <li>03-React</li>
+                 <li>04-Java</li>
              </ul>
             </section>
 
@@ -18,7 +19,7 @@ import Button from '@material-ui/core/Button';
                <div className="col-sm">
               <figure>
                <img src="https://images.pexels.com/photos/434337/pexels-photo-434337.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="my picture"/>
-               <figcaption>photo by Sam</figcaption>
+               <figcaption>photo by pixabay from pexels</figcaption>
                </figure>
                </div>
                <div className="col-sm">
@@ -47,7 +48,7 @@ import Button from '@material-ui/core/Button';
                <div className="col-sm">
                <figure>
                <img src="https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="my picture"/>
-               <figcaption>photo by Sam</figcaption>
+               <figcaption>photo by serpatat from pexels</figcaption>
                </figure>
                </div>
                </div>
@@ -60,7 +61,7 @@ import Button from '@material-ui/core/Button';
                <div className="col-6">
                <figure>
                <img src="https://images.pexels.com/photos/545008/pexels-photo-545008.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="my picture"/>
-               <figcaption>photo by Sam</figcaption>
+               <figcaption>photo by burst from pexels</figcaption>
                </figure>
                </div>
                <div className="col-sm">
