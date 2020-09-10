@@ -34,10 +34,10 @@ import DialogTitle from '@material-ui/core/DialogTitle';
         <DialogTitle id="alert-dialog-title">{"My contact information"}</DialogTitle>
         <DialogContent>
         <DialogContentText id="alert-dialog-description">
-            Email : nnn@gmail.com
+            Email : mvafa44@gmail.com
           </DialogContentText>
           <DialogContentText id="alert-dialog-description">
-            Phone number: 444-666-777
+            LinkedIn: Mojgan Vafa
           </DialogContentText>
         </DialogContent>
       </Dialog>

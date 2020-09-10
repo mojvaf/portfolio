@@ -23,8 +23,8 @@ import Contact from './Contact';
                 <h1>Hello, I am <br/> Mojgan Vafa </h1>
                 <ul >
                    <li>React developer</li>
-                   <li>graph designer</li>
-                   <li>data analysis </li>
+                   <li>Java script developer</li>
+                  
                 </ul>  
                 <Button variant="contained" color="primary">
                 <a href="https://www.linkedin.com/in/mojgan-vafa/">Add me on LinkedIn</a>

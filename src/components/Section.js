@@ -23,9 +23,9 @@ import Button from '@material-ui/core/Button';
                </figure>
                </div>
                <div className="col-sm">
-               <h2>branding strategy 1</h2>
-               <p>Lorem lkldfk dlsklskf lksldkfsl lkdskfs ksdkfslk</p>
-                <Button href="#" color="primary">
+               <h2>Front and Back-end project</h2>
+               <p>This project has front-end with React and back-end with node.js</p>
+                <Button href="https://github.com/mojvaf/login-front-and-backend" color="primary">
                    GitHub link
                 </Button>
                
@@ -39,9 +39,9 @@ import Button from '@material-ui/core/Button';
             <div className="container">
               <div className="row"> 
                <div className="col-sm">
-               <h2>branding strategy 2</h2>
-               <p>Lorem lkldfk dlsklskf lksldkfsl lkdskfs ksdkfslk</p>
-               <Button href="#" color="primary">
+               <h2>React with styled component</h2>
+               <p>In this project I used react hooks and styled components</p>
+               <Button href="https://github.com/mojvaf/Malibu" color="primary">
                    GitHub link
                 </Button>
                </div>
@@ -65,15 +65,15 @@ import Button from '@material-ui/core/Button';
                </figure>
                </div>
                <div className="col-sm">
-               <h2>branding strategy 3</h2>
-               <p>Lorem lkldfk dlsklskf lksldkfsl lkdskfs ksdkfslk</p>
-               <Button href="#" color="primary">
+               <h2>React with material ui</h2>
+               <p>I am still working on this project</p>
+               <Button href="https://github.com/mojvaf/exersice" color="primary">
                    GitHub link
                 </Button>
                </div> <div className="col-sm">
-               <h2>branding strategy 3</h2>
-               <p>Lorem lkldfk dlsklskf lksldkfsl lkdskfs ksdkfslk</p>
-               <Button href="#" color="primary">
+               <h2>shopping cart with React</h2>
+               <p>I am still working on this project</p>
+               <Button href="https://github.com/mojvaf/shopping-cart" color="primary">
                    GitHub link
                 </Button>
                </div>
