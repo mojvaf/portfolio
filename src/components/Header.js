@@ -24,7 +24,7 @@ import Contact from './Contact';
                 <ul >
                    <li>React developer</li>
                    <li>Java script developer</li>
-                  
+                   
                 </ul>  
                 <Button variant="contained" color="primary">
                 <a href="https://www.linkedin.com/in/mojgan-vafa/">Add me on LinkedIn</a>

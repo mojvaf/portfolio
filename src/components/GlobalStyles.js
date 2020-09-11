@@ -1,5 +1,6 @@
 import {createGlobalStyle} from 'styled-components';
 import {setColor,setFont} from '../styles'
+import image from './image/background.png'
 const Globals = createGlobalStyle`
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,200&family=Inknut+Antiqua:wght@700&display=swap');
  
@@ -52,9 +53,11 @@ ul li {
   margin: 20px 0;
 }
 header{
-    top: 120px;
+    top: 90px;
     position: relative;
     margin-bottom: 220px;
+    background-image: url(${image});
+    background-repeat: repeat-x;
 }
 
 h1{

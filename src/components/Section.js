@@ -1,11 +1,31 @@
 import React from 'react'
 import Button from '@material-ui/core/Button';
- const Section=()=> {
+import { makeStyles } from '@material-ui/core/styles';
+import { Avatar } from '@material-ui/core';
+import FolderIcon from '@material-ui/icons/Folder';
+import BusinessCenterIcon from '@material-ui/icons/BusinessCenter';
+
+const useStyles = makeStyles((theme) => ({
+    root: {
+      display: 'flex',
+      '& > *': {
+        margin: theme.spacing(1),
+         },
+       }
+    }));
+
+
+const Section=()=> {
+    const classes = useStyles(); 
     return (
         <div>
             <section>
              <ul className="skills-list" >
-                 <li>Some skills</li>
+                 <li className={classes.root}>
+                     <Avatar>
+                       <BusinessCenterIcon/>
+                     </Avatar>
+                     Some skills: </li>
                  <li>JavaScript </li>
                  <li>Node.js</li>
                  <li>React</li>
