@@ -15,7 +15,7 @@
     "react-scripts": "3.4.3",
     "styled-components": "^5.2.0"
   },
-  "homepage": "https://{mojvaf}.github.io/{portfolio}",
+  "homepage": ".",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
